@@ -1,0 +1,22 @@
+{
+  "name": "dlt_cypress",
+  "version": "1.0.0",
+  "description": "An investigation into using Cypress for E2E JavaScript testing",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidtrussler/DLT_Cypress.git"
+  },
+  "author": "David Trussler",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davidtrussler/DLT_Cypress/issues"
+  },
+  "homepage": "https://github.com/davidtrussler/DLT_Cypress#readme",
+  "devDependencies": {
+    "cypress": "^3.3.2"
+  }
+}
